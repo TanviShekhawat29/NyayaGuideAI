@@ -142,8 +142,8 @@ NyayaGuide-AI/
 ### Clone Repository
 
 ```bash
-git clone 
-cd nyayaguide-ai
+git clone https://github.com/TanviShekhawat29/NyayaGuideAI.git
+cd NyayaGuideAI
 ```
 
 ### Install Dependencies
@@ -171,13 +171,13 @@ http://127.0.0.1:8000
 Build Image:
 
 ```bash
-docker build -t nyayaguide-ai .
+docker build -t NyayaGuideAI .
 ```
 
 Run Container:
 
 ```bash
-docker run -p 8080:8080 nyayaguide-ai
+docker run -p 8080:8080 NyayaGuideAI
 ```
 
 ---
